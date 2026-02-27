@@ -1,0 +1,12 @@
+Sample SRR5660030 had 2259287 read pairs before and 1836470 read pairs after Bowtie2 filtering.
+In the assembly of sample SRR5660030, there are 57 contigs > 1000 bp and 86238 total bp.
+
+Sample SRR5660033 had 2004530 read pairs before and 1434467 read pairs after Bowtie2 filtering.
+In the assembly of sample SRR5660033, there are 63 contigs > 1000 bp and 128145 total bp.
+
+Sample SRR5660044 had 2730258 read pairs before and 2005922 read pairs after Bowtie2 filtering.
+In the assembly of sample SRR5660044, there are 27 contigs > 1000 bp and 195152 total bp.
+
+Sample SRR5660045 had 2476889 read pairs before and 1326145 read pairs after Bowtie2 filtering.
+In the assembly of sample SRR5660045, there are 53 contigs > 1000 bp and 88006 total bp.
+
