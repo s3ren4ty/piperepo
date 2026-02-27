@@ -17,6 +17,7 @@
 
 #if you want to run your own paired end data, please put it in the raw data file.
 
+#you also need to make a database for the beteaherpesvirinae sequences. i did not include it due to its size. The Betaherpesvirinae nucleotide database was downloaded from NCBI and built locally using makeblastdb. 
 #in order to run the code, input “snakemake --cores 4” into your terminal
 
 #sources:
